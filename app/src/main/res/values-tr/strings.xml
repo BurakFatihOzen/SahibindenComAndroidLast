@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sahibinden</string>
+    <string name="ilanDetayiYazisi">Ad detail</string>
+    <string name="ilanAciklamasi">120 THOUSANDS KILOMETERS WITHOUT ANY FAULTS OR PAINT FROM BURAK AUTO</string>
+    <string name="galeriAdi">BURAK AUTO</string>
+    <string name="FiltrelemeSatiri">...Automobile > Alfa Romeo > Giulietta > 1.4 TB > Progression Plus</string>
+    <string name="adres">Berlin,Krauzberg</string>
+    <string name="ilanBilgileri">Ad Information</string>
+    <string name="Aciklama">Description</string>
+    <string name="Konumu">Location</string>
+    <string name="FiyatYazisi">Price</string>
+    <string name="ilanTarihiYazisi">Ad Date</string>
+    <string name="ilanNoYazisi">Ad No</string>
+    <string name="markaYazisi">Brand</string>
+    <string name="seriYazisi">Serie</string>
+    <string name="fiyatDegeri">18.575 $</string>
+    <string name="ilanTarihi">29.04.2025</string>
+    <string name="ilanNo">1564532288</string>
+    <string name="AlfaRomeo">Alfa Romeo</string>
+    <string name="Giulietta">Giulietta</string>
+    <string name="ara">Call</string>
+    <string name="Mesaj">Send Message</string>
+
+</resources>

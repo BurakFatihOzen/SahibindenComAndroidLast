@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Sahibinden</string>
+    <string name="ilanDetayiYazisi">İlan Detayı</string>
+    <string name="ilanAciklamasi">BURAK AUTODAN HATASIZ BOYASIZ 120 BİNDE</string>
+    <string name="galeriAdi">BURAK AUTO</string>
+    <string name="FiltrelemeSatiri">...Otomobil > Alfa Romeo > Giulietta > 1.4 TB > Progression Plus</string>
+    <string name="adres">Ankara,Keçiören</string>
+    <string name="ilanBilgileri">İlan Bilgileri</string>
+    <string name="Aciklama">Açıklama</string>
+    <string name="Konumu">Konumu</string>
+    <string name="FiyatYazisi">Fiyat</string>
+    <string name="ilanTarihiYazisi">İlan Tarihi</string>
+    <string name="ilanNoYazisi">İlan No</string>
+    <string name="markaYazisi">Marka</string>
+    <string name="seriYazisi">Seri</string>
+    <string name="fiyatDegeri">715.000 TL</string>
+    <string name="ilanTarihi">29.04.2025</string>
+    <string name="ilanNo">1564532288</string>
+    <string name="AlfaRomeo">Alfa Romeo</string>
+    <string name="Giulietta">Giulietta</string>
+    <string name="ara">Ara</string>
+    <string name="Mesaj">Mesaj Gönder</string>
+
+</resources>
